@@ -1,0 +1,12 @@
+:root{
+  $red: #ff0000;
+  $blue: #0000ff;
+  $white0: #fff;
+  $black0: #000;
+}
+@keyframes shake {
+  0% { transform: translate(0, 0); }
+  10%, 30%, 50%, 70%, 90% { transform: translate(-2px, 0); }
+  20%, 40%, 60%, 80% { transform: translate(2px, 0); }
+  100% { transform: translate(0, 0); }
+}
