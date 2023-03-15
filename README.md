@@ -14,3 +14,10 @@ npm install
 ```bash
 npm run dev
 ```
+## Projeto inicializado com vite
+
+https://vitejs.dev/config/
+
+```bash
+npm create vite@latest
+```
